@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {border: 1px solid black;}
+  
+</style>
+</head>
+<body>
+
+<h1 style="text-align:center;">Riwayat Pendidikan</h1>
+
+<table style="width:100%">
+  <tr>
+    <th>Tahun Lulus</th>
+    <th>Sekolah</th>
+    <th>Kota</th>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>SDK 077 Kewapante</td>
+    <td>Maumere</td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>SMPK Virgo Fidelis</td>
+    <td>Maumere</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>SMASK Bhaktyarsa</td>
+    <td>Maumere</td>
+  </tr>
+</table>
+
+<p>Tabel ini menunjukkan riwayat pendidikan cathy berdasarkan tahun lulus.</p>
+
+</body>
+</html>
